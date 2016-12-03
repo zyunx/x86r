@@ -1,3 +1,8 @@
+bootblock
+
+# disassemble file
+*.asm
+
 # Object files
 *.o
 *.ko
